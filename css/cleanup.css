@@ -10,3 +10,10 @@
 #tag-3 {
   width: auto;
 }
+
+.parent {
+  background-color: red;
+  width: auto;
+  margin: auto;
+  height: 500px
+}
