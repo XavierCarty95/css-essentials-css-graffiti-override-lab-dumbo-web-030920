@@ -25,3 +25,7 @@
 .wicked {
   display: none;
 }
+
+#wall .tag-1 {
+  display: none;
+}
